@@ -79,7 +79,7 @@ class MahmoudElkady:
 
 ---
 
-## Connect With Me
+## contact Me
 
 <div align="center">
 
